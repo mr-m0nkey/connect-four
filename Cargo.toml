@@ -5,3 +5,4 @@ authors = ["schulke-214 <schulkemaximilian@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+text_io = "0.1.7"
